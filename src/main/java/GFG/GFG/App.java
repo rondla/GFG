@@ -1,4 +1,4 @@
-package GFG.GFG;
+package gfg.gfg;
 
 /**
  * Hello world!
