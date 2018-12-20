@@ -1,4 +1,4 @@
-package GFG.GFG.arrays;
+package gfg.gfg.arrays;
 
 /**
  * @author kiranrondla
